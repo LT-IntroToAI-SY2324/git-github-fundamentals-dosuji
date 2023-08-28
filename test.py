@@ -1,1 +1,5 @@
-print("Hello")
+println("Hello")
+
+x="Bruh moment"
+print(x)
+
